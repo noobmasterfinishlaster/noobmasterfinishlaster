@@ -35,12 +35,16 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="pandas" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="seaborn" width="37" height="40"/> </a> 
+<a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jIpStDRSlLYI9YV6ZkZl0Cw4cffBCqrdlw&s" alt="seaborn" width="60" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" alt="aws" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer"> <img src="https://www.nogamy.co.il/wp-content/uploads/2021/10/AWS-Glue.png" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idSUrLOWbH/idxN8rZ-u3.png" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobmasterfinishlaster&show_icons=true&locale=en&layout=compact" alt="noobmasterfinishlaster" /></p>
+<a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5s3so4VOpAZGfmE7V2n54CdoVVroa2yvOTw&s" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idSUrLOWbH/idxN8rZ-u3.png" alt="aws" width="40" height="50"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVyODOhQ4uiRkwYzdKVqqSmGfy47FBYc4NQ&s" alt="scikit_learn" width="55" height="40"/> </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobmasterfinishlaster&show_icons=true&locale=en&layout=compact" alt="noobmasterfinishlaster" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobmasterfinishlaster&show_icons=true&locale=en" alt="noobmasterfinishlaster" /></p>
 
